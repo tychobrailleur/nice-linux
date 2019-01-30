@@ -1,0 +1,127 @@
+#+title: Make *nix Nice
+#+author: Sébastien Le Callonnec
+
+A unopinionated list of resources gathered from [[https://reddit.com/r/unixporn][/r/unixporn]] to make
+your *nix look nice.
+
+* Window Managers
+
+  - [[https://awesomewm.org/][awesome-mg]] :: highly configurable, next generation framework
+       window manager for X.
+  - [[https://github.com/baskerville/bspwm][bspwm]] :: tiling window manager based on binary space partitioning
+  - [[https://i3wm.org/][i3]] :: improved tiling wm
+  - [[https://github.com/Airblader/i3][i3-gaps]] :: i3 fork, with more features (in particular gaps around
+       windows)
+  - [[https://github.com/linuxmint/Cinnamon][cinnamon]] :: linux desktop from mint.
+  - [[http://openbox.org/wiki/Main_Page][openbox]] :: highly configurable, next generation window manager
+       with extensive standards support.
+  - [[https://dwm.suckless.org/][dwm]] :: dynamic window manager for X; tiled, floating layout.
+  - [[https://mate-desktop.org/][MATE]] :: continuation of GNOME 2
+  - [[https://xfce.org/][xfce]] :: lightweight desktop environment.
+  - [[https://www.gnome.org/][gnome]] :: GNOME 3
+
+* Display Managers
+
+  - [[https://wiki.gnome.org/Projects/GDM][GDM]] :: GNOME Display manager, program that manages graphical
+       display servers and handles graphical user logins.
+  - [[https://freedesktop.org/wiki/Software/LightDM/][LightDM]] :: light display manager
+
+** Greeters
+
+* Applications
+
+  - [[https://github.com/jaagr/polybar][polybar]] :: a fast and easy-to-use status bar
+  - [[https://rybczak.net/ncmpcpp/][ncmpcpp]] :: NCurses Music Player Client (Plus Plus)  ncmpcpp –
+       featureful ncurses based MPD client inspired by ncmpc
+  - [[https://newsboat.org/][newsboat]] :: A RSS Reader
+  - [[https://irssi.org/][irssi]] ::  IRC client in text mode
+  - dunst with notify-send ::
+       https://unix.stackexchange.com/questions/489758/how-to-make-dunst-show-repeated-notifications-of-the-same-program-as-one-single
+  - [[https://dunst-project.org/][dunst]] :: A customizable and lightweight notification-daemon
+  - [[https://github.com/mate-desktop/mate-panel][mate-panel]] :: MATE panel for MATE environment, cf. https://mate-desktop.org/
+  - [[https://github.com/brndnmtthws/conky][conky]] :: Lightweight system monitor for X.
+  - [[https://github.com/karlstav/cava][cava]] :: console-based audio visualiser for Alsa.
+  - [[https://github.com/dylanaraps/neofetch][neofetch]] :: Display info about the system, written in Bash.
+  - [[https://github.com/abishekvashok/cmatrix][cmatrix]] :: matrix implementation on the command line
+  - [[https://github.com/muennich/sxiv][sxiv]] :: Simple X image viewer.
+  - [[https://github.com/dylanaraps/fff][fff (fucking fast file-manager)]] :: command-line based file manager.
+  - [[https://github.com/ranger/ranger][ranger]] :: Vim-inspired file manager
+  - [[https://feh.finalrewind.org/][feh]] :: x11 image viewer mostly aimed at console users, can be used
+       for setting wallpaper.
+  - [[https://wiki.lxde.org/en/PCManFM][pcmanfm]] :: file manager application
+  - [[http://qmmp.ylsoftware.com/][qmmp]] :: audio player written with Qt.
+  - [[https://sourceforge.net/projects/gmrun/][gmrun]] :: A simple program which provides a "run program" window,
+       featuring a bash-like TAB completion. It uses GTK+ interface.
+  - [[https://github.com/octobanana/peaclock][peaclock]] ::  colourful binary clock.
+  - [[https://cmus.github.io/][cmus]] :: cmus is a small fast and powerful console music player.
+  - [[https://github.com/pipeseroni/pipes.sh][pipe.sh]] :: animated pipes terminal screensaver.
+  - [[https://github.com/cmatsuoka/asciiquarium][asciiquarium]] :: aquarium / sea animation in ascii art.
+  - [[https://github.com/DaveDavenport/rofi][rofi]] :: window switcher application launcher, and replacement for dmenu.
+  - [[https://gitlab.com/jschx/ufetch][ufetch]] ::  system infofor unix-like operating systems.
+  - [[https://github.com/KittyKatt/screenFetch][screenfetch]] :: bash screenshot system and theme information.
+  - [[https://github.com/greshake/i3status-rust][i3status-rust]] ::  resource-friendly rewrite of =i3status=
+  - [[https://github.com/jwilm/alacritty][alacritty]] :: GPU-accelerated terminal emulator
+  - [[https://github.com/vivien/i3blocks][i3blocks]] :: scheduler for the status bar
+  - [[https://github.com/jarun/nnn][nnn]] ::  fast file manager
+  - [[https://github.com/cjbassi/gotop][gotop]] :: terminal based graphical activity monitor
+  - [[https://github.com/KDE/latte-dock][latte-dock]] :: dock for plasma desktops
+  - [[https://sourceforge.net/projects/shapecorners/][shapecorners]] :: simple KWin/5 efffect that simply rounds corners
+       of windows.
+  - [[https://nicolargo.github.io/glances/][glances]] :: system monitor written in Python.
+  - [[https://github.com/chjj/compton][compton]] :: compositor for X (/cf./ https://en.wikipedia.org/wiki/Compositing_window_manager)
+  - [[https://github.com/dreamer/scrot/][scrot]] ::  commandline screen capture utility.
+  - [[https://siyanpanayotov.com/project/viewnior][viewnior]] :: fast simple image viewer for GNU/Linux.
+  - [[https://github.com/nicklan/pnmixer/wiki][pnmixer]] ::  simple mixer application to run in system tray.
+  - [[https://www.cubic.org/player/][ocp]] :: open cubic music player, command line music.
+  - [[https://gitlab.com/o9000/tint2][tint2]] :: lightweight panel/taskbar for Linux.
+  - [[https://github.com/insanum/gcalcli][gcalcli]] :: google calendar on tthe command line
+  - [[https://sw.kovidgoyal.net/kitty/][kitty]] :: GPU-based terminal emulator.
+  - [[https://github.com/taffybar/taffybar][taffybar]] :: gtk+3-based desktop info bar
+  - [[https://github.com/xorg62/tty-clock][tty-clock]] :: Terminal digital clock
+  - [[http://software.schmorp.de/pkg/rxvt-unicode.html][urxvt]] :: aka rxvt-unicode. Also some resources there:
+    - https://github.com/bookercodes/awesome-urxvt
+    - https://wiki.archlinux.org/index.php/rxvt-unicode
+  - [[https://github.com/Bash-it/bash-it/tree/master/themes/powerline-multiline][powerline-multiline]] :: multiline powerline defined in bash-it.
+  - [[https://github.com/Bash-it/bash-it][bash-it]] :: collection of community bash commands and scripts.
+  - [[https://github.com/Superjo149/auryo][auryo]] :: unofficial soundcloud desktop app
+  - [[https://launchpad.net/plank][plank]] :: simple dock written in Vala.
+  - [[https://addy-dclxvi.github.io/post/fish-shell/][fish]] :: friendly interactive shell
+
+
+* Fonts
+
+  - DejaVu Sans Mono
+  - System San Francisco
+  - source code pro :: https://github.com/adobe-fonts/source-code-pro
+  - Nerd fonts :: https://github.com/ryanoasis/nerd-fonts
+  - Fira Code :: https://github.com/tonsky/FiraCode
+  - [[http://terminus-font.sourceforge.net/][Terminus]] ::
+  - [[https://sourceforge.net/projects/termsyn/][Termsyn]] :: Monospace font based on terminus and tamsyn
+  - [[https://github.com/source-foundry/Hack][Hack]] :: typeface designed for source code
+
+
+* Wallpapers
+
+  - https://github.com/LukeSmithxyz/wallpapers
+
+* OSX
+
+  - [[https://contexts.co/][contexts]] ::  simpler and faster window switcher. ($$$)
+  - [[https://brawersoftware.com/products/ubar][ubar]] :: dock replacement for Mac ($$$)
+  - [[https://github.com/tinalatif/flat.icns][flat.icns]] ::  Flat icons set for Mac
+  - [[https://www.macbartender.com/][bartender]] :: organize your menu bar icons ($$$)
+  - [[https://folivora.ai/][bettertouchtool]] :: feature packed app that allows you to customize
+       various input devices on your Mac. ($$$)
+  - [[https://justgetflux.com/][flux]] :: makes the colour of the screen display adapt with the time
+       time of the day
+  - [[https://bjango.com/mac/istatmenus/][istatmenus]] :: advanced Mac monitor system for the menubar ($$$)
+  - [[https://lunarapp.site/][lunar]] :: adaptative brightness for the external display
+  - [[http://happenapps.com/#quiver][quiver]] :: notebook for programmer.
+  - [[https://www.irradiatedsoftware.com/sizeup/][sizeup]] :: resize windows and position with keyboard.
+  - [[https://www.codeux.com/textual/][textual]] :: IRC client ($$$)
+  - [[https://culturedcode.com/things/][things]] :: personal task manager ($$$)
+  - [[https://totalfinder.binaryage.com/][totalfinder]] :: add advanced functionality to finder. ($$$)
+  - [[https://totalspaces.binaryage.com/][totalspaces2]] :: grid manager for windows in Mac ($$$)
+  - [[https://github.com/DrabWeb/iTerm2][iTerm2 fork]] :: fork of iTerm2
+  - [[https://github.com/koekeishiya/chunkwm][chunkwm]] ::  tiling window manager for osx
+  - [[https://github.com/zzzeyez/Pecan][Pecan]] :: configurable bar for osx
