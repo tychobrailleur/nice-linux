@@ -6,7 +6,7 @@ your *nix look nice.
 
 * Window Managers
 
-  - [[https://awesomewm.org/][awesome-mg]] :: highly configurable, next generation framework
+  - [[https://awesomewm.org/][awesome-wm]] :: highly configurable, next generation framework
        window manager for X.
   - [[https://github.com/baskerville/bspwm][bspwm]] :: tiling window manager based on binary space partitioning
   - [[https://i3wm.org/][i3]] :: improved tiling wm
@@ -19,6 +19,8 @@ your *nix look nice.
   - [[https://mate-desktop.org/][MATE]] :: continuation of GNOME 2
   - [[https://xfce.org/][xfce]] :: lightweight desktop environment.
   - [[https://www.gnome.org/][gnome]] :: GNOME 3
+  - [[https://github.com/venam/2bwm][2bwm]] :: A fast floating WM, with the particularity of having 2
+       borders, written over the XCB library and derived from mcwm
 
 * Display Managers
 
@@ -57,7 +59,7 @@ your *nix look nice.
   - [[https://github.com/pipeseroni/pipes.sh][pipe.sh]] :: animated pipes terminal screensaver.
   - [[https://github.com/cmatsuoka/asciiquarium][asciiquarium]] :: aquarium / sea animation in ascii art.
   - [[https://github.com/DaveDavenport/rofi][rofi]] :: window switcher application launcher, and replacement for dmenu.
-  - [[https://gitlab.com/jschx/ufetch][ufetch]] ::  system infofor unix-like operating systems.
+  - [[https://gitlab.com/jschx/ufetch][ufetch]] ::  system info for unix-like operating systems.
   - [[https://github.com/KittyKatt/screenFetch][screenfetch]] :: bash screenshot system and theme information.
   - [[https://github.com/greshake/i3status-rust][i3status-rust]] ::  resource-friendly rewrite of =i3status=
   - [[https://github.com/jwilm/alacritty][alacritty]] :: GPU-accelerated terminal emulator
@@ -86,11 +88,13 @@ your *nix look nice.
   - [[https://github.com/Superjo149/auryo][auryo]] :: unofficial soundcloud desktop app
   - [[https://launchpad.net/plank][plank]] :: simple dock written in Vala.
   - [[https://addy-dclxvi.github.io/post/fish-shell/][fish]] :: friendly interactive shell
-
+  - [[https://github.com/LemonBoy/bar][lemonbar]] :: lightweight bar based on xcb
+  - [[https://wtfutil.com/][wtf]] :: customisable command-line dashboard.
+  - [[http://www.coderholic.com/pyradio/][pyradio]] :: console-based internet radio player.
 
 * Fonts
 
-  - DejaVu Sans Mono
+  - [[https://dejavu-fonts.github.io/][DejaVu]] :: open source font family based on Vera
   - System San Francisco
   - source code pro :: https://github.com/adobe-fonts/source-code-pro
   - Nerd fonts :: https://github.com/ryanoasis/nerd-fonts
@@ -99,10 +103,11 @@ your *nix look nice.
   - [[https://sourceforge.net/projects/termsyn/][Termsyn]] :: Monospace font based on terminus and tamsyn
   - [[https://github.com/source-foundry/Hack][Hack]] :: typeface designed for source code
 
-
 * Wallpapers
 
   - https://github.com/LukeSmithxyz/wallpapers
+  - https://www.reddit.com/r/MinimalWallpaper/
+
 
 * OSX
 
