@@ -41,6 +41,7 @@ your *nix look nice.
        https://unix.stackexchange.com/questions/489758/how-to-make-dunst-show-repeated-notifications-of-the-same-program-as-one-single
   - [[https://dunst-project.org/][dunst]] :: A customizable and lightweight notification-daemon
   - [[https://github.com/mate-desktop/mate-panel][mate-panel]] :: MATE panel for MATE environment, cf. https://mate-desktop.org/
+  - [[https://github.com/addy-dclxvi/almighty-dotfiles/blob/master/.toys/colorpanes][colorpanes]] :: script to display colour theme
   - [[https://github.com/brndnmtthws/conky][conky]] :: Lightweight system monitor for X.
   - [[https://github.com/karlstav/cava][cava]] :: console-based audio visualiser for Alsa.
   - [[https://github.com/dylanaraps/neofetch][neofetch]] :: Display info about the system, written in Bash.
@@ -91,6 +92,8 @@ your *nix look nice.
   - [[https://github.com/LemonBoy/bar][lemonbar]] :: lightweight bar based on xcb
   - [[https://wtfutil.com/][wtf]] :: customisable command-line dashboard.
   - [[http://www.coderholic.com/pyradio/][pyradio]] :: console-based internet radio player.
+  - [[https://github.com/dylanaraps/pywal][pywal]] :: tool to generate a colour palette from the dominant
+       colours of an image.
 
 * Fonts
 
