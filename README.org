@@ -109,6 +109,9 @@ your *nix look nice.
   - [[https://www.calcurse.org/][calcurse]] :: text-based calendar and scheduling application.
   - [[https://larbs.xyz/][larbs]] :: luke's auto-rice bootstrapping scripts
   - [[https://github.com/lucy/mpdviz][mpdviz]] :: console mpd visualiser
+  - [[https://github.com/thestinger/termite][termite]] :: keyboard-centric VTE-based terminal, aimed at use
+       within a window manager with tiling and/or tabbing support.
+  - [[https://github.com/tmux/tmux/wiki][tmux]] :: terminal multiplexer
 
 * Fonts
 
@@ -150,3 +153,6 @@ your *nix look nice.
   - [[https://github.com/DrabWeb/iTerm2][iTerm2 fork]] :: fork of iTerm2
   - [[https://github.com/koekeishiya/chunkwm][chunkwm]] ::  tiling window manager for osx
   - [[https://github.com/zzzeyez/Pecan][Pecan]] :: configurable bar for osx
+  - [[http://tracesof.net/uebersicht/][übersicht]] :: übersicht lets you run system commands and display
+       their output on your desktop in little containers, called
+       widgets.
