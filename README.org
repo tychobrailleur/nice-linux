@@ -21,6 +21,8 @@ your *nix look nice.
   - [[https://www.gnome.org/][gnome]] :: GNOME 3
   - [[https://github.com/venam/2bwm][2bwm]] :: A fast floating WM, with the particularity of having 2
        borders, written over the XCB library and derived from mcwm
+  - [[https://herbstluftwm.org/][herbstluftwm]] :: tiling window manager for x11 using xlib and
+       glib.
 
 * Display Managers
 
@@ -106,6 +108,7 @@ your *nix look nice.
   - [[https://github.com/bhilburn/powerlevel9k][powerlevel9k]] :: powerline theme for zsh
   - [[https://www.calcurse.org/][calcurse]] :: text-based calendar and scheduling application.
   - [[https://larbs.xyz/][larbs]] :: luke's auto-rice bootstrapping scripts
+  - [[https://github.com/lucy/mpdviz][mpdviz]] :: console mpd visualiser
 
 * Fonts
 
@@ -123,7 +126,9 @@ your *nix look nice.
   - https://github.com/LukeSmithxyz/wallpapers
   - https://www.reddit.com/r/MinimalWallpaper/
 
+* Dotfiles
 
+  - https://github.com/addy-dclxvi/almighty-dotfiles
 * OSX
 
   - [[https://contexts.co/][contexts]] ::  simpler and faster window switcher. ($$$)
