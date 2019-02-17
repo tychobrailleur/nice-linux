@@ -94,6 +94,18 @@ your *nix look nice.
   - [[http://www.coderholic.com/pyradio/][pyradio]] :: console-based internet radio player.
   - [[https://github.com/dylanaraps/pywal][pywal]] :: tool to generate a colour palette from the dominant
        colours of an image.
+  - [[https://github.com/themix-project/oomox][oomox]] :: graphical application for generating different color
+       variations of a Arc, Materia and Oomox themes (GTK2, GTK3 and
+       others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons,
+       and terminal palette.
+  - [[https://vifm.info/colorschemes.shtml][vifm]] ::  Vifm is a file manager with curses interface, which
+       provides Vi[m]-like environment for managing objects within
+       file systems, extended with some useful ideas from mutt.
+  - [[https://github.com/geommer/yabar][yabar]] :: lightweight status bar for X window managers.
+  - [[https://taskwarrior.org/][taskwarrior]] :: todo list management from the command line
+  - [[https://github.com/bhilburn/powerlevel9k][powerlevel9k]] :: powerline theme for zsh
+  - [[https://www.calcurse.org/][calcurse]] :: text-based calendar and scheduling application.
+  - [[https://larbs.xyz/][larbs]] :: luke's auto-rice bootstrapping scripts
 
 * Fonts
 
