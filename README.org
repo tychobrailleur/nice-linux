@@ -68,6 +68,7 @@ your *nix look nice.
   - [[https://github.com/jwilm/alacritty][alacritty]] :: GPU-accelerated terminal emulator
   - [[https://github.com/vivien/i3blocks][i3blocks]] :: scheduler for the status bar
   - [[https://github.com/jarun/nnn][nnn]] ::  fast file manager
+  - [[https://github.com/aksakalli/gtop][gtop]] :: system monitoring dashboard for terminal
   - [[https://github.com/cjbassi/gotop][gotop]] :: terminal based graphical activity monitor
   - [[https://github.com/KDE/latte-dock][latte-dock]] :: dock for plasma desktops
   - [[https://sourceforge.net/projects/shapecorners/][shapecorners]] :: simple KWin/5 efffect that simply rounds corners
@@ -123,6 +124,7 @@ your *nix look nice.
   - [[http://terminus-font.sourceforge.net/][Terminus]] ::
   - [[https://sourceforge.net/projects/termsyn/][Termsyn]] :: Monospace font based on terminus and tamsyn
   - [[https://github.com/source-foundry/Hack][Hack]] :: typeface designed for source code
+  - [[https://undefined-medium.com/][undefined]] :: free and open-source pixel grid-based
 
 * Wallpapers
 
