@@ -113,6 +113,11 @@ your *nix look nice.
   - [[https://github.com/thestinger/termite][termite]] :: keyboard-centric VTE-based terminal, aimed at use
        within a window manager with tiling and/or tabbing support.
   - [[https://github.com/tmux/tmux/wiki][tmux]] :: terminal multiplexer
+  - [[https://github.com/vishaltelangre/ff][ff]] :: find files utility
+  - [[https://github.com/junegunn/fzf][fzf]] :: command-line fuzzy finder
+  - [[https://github.com/dylanaraps/promptless][promptless]] :: fast and minimal shell prompt.
+  - [[https://gitlab.com/BVollmerhaus/blurwal][blurwal]] :: background application that blurs wallpapers when
+       windows are open.
 
 * Fonts
 
