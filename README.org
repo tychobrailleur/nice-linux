@@ -118,6 +118,10 @@ your *nix look nice.
   - [[https://github.com/dylanaraps/promptless][promptless]] :: fast and minimal shell prompt.
   - [[https://gitlab.com/BVollmerhaus/blurwal][blurwal]] :: background application that blurs wallpapers when
        windows are open.
+  - [[https://github.com/gTile/gTile][gTile]] :: window tiling extension for Gnome.
+  - [[https://github.com/home-sweet-gnome/dash-to-panel][dash-to-panel]] :: icon taskbar for Gnome shell.
+  - [[https://github.com/mps-youtube/mps-youtube][mps-youtube]] :: terminal-based youtube player and downloader
+  - [[https://gitlab.com/jallbrit/bonsai.sh][bonsai.sh]] :: bonsai tree generator written in bash.
 
 * Fonts
 
