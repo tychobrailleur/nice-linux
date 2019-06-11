@@ -122,6 +122,16 @@ your *nix look nice.
   - [[https://github.com/home-sweet-gnome/dash-to-panel][dash-to-panel]] :: icon taskbar for Gnome shell.
   - [[https://github.com/mps-youtube/mps-youtube][mps-youtube]] :: terminal-based youtube player and downloader
   - [[https://gitlab.com/jallbrit/bonsai.sh][bonsai.sh]] :: bonsai tree generator written in bash.
+  - [[https://cointop.sh/][cointop]] :: terminal-based application for tracking
+       cryptocurrencies.
+
+* Terminal Friendly Websites
+
+  Websites that can be =curl='ed on the command line to display useful
+  info.
+
+  - [[http://wttr.in/][wttr.in]] :: display weather (=curl wttr.in=)
+  - [[http://wttr.in/Moon][wttr.in/Moon]] :: display phase of the moon (=curl wttr\.in/Moon=)
 
 * Fonts
 
