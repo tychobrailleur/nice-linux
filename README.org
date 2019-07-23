@@ -124,6 +124,7 @@ your *nix look nice.
   - [[https://gitlab.com/jallbrit/bonsai.sh][bonsai.sh]] :: bonsai tree generator written in bash.
   - [[https://cointop.sh/][cointop]] :: terminal-based application for tracking
        cryptocurrencies.
+  - [[https://stedolan.github.io/jq/][jq]] :: command-line JSON processor
 
 * Terminal Friendly Websites
 
