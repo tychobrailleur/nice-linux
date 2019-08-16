@@ -125,6 +125,7 @@ your *nix look nice.
   - [[https://cointop.sh/][cointop]] :: terminal-based application for tracking
        cryptocurrencies.
   - [[https://stedolan.github.io/jq/][jq]] :: command-line JSON processor
+  - [[https://github.com/dfrankland/pokemonsay][pokemonsay]] :: Pokémon version of cowsay
 
 * Terminal Friendly Websites
 
