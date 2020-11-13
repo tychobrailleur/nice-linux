@@ -126,6 +126,13 @@ your *nix look nice.
        cryptocurrencies.
   - [[https://stedolan.github.io/jq/][jq]] :: command-line JSON processor
   - [[https://github.com/dfrankland/pokemonsay][pokemonsay]] :: Pokémon version of cowsay
+  - [[https://github.com/blrsn/zentile][zentile]] :: automatic tiling for ewmh-compliant window managers
+  - [[https://github.com/johanmalm/jgmenu][jgmenu]] :: standalone, simple menu application for Linux and BSD
+  - [[http://tizonia.org/][tizonia]] :: command-line music player
+  - [[https://github.com/gnunn1/tilix][tilix]] :: tiling terminal emulator based on GTK3.
+  - [[https://github.com/florentc/xob][xob]] :: Lightweight overlay volume for the X win system.
+  - [[https://github.com/dylanaraps/pfetch][pfetch]] :: pretty system information tool written in POSIX sh.
+  - [[https://github.com/ledesmablt/spotify-cli][spotify-cli]] :: control spotify playback through the command line.
 
 * Terminal Friendly Websites
 
