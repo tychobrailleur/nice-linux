@@ -23,6 +23,7 @@ your *nix look nice.
        borders, written over the XCB library and derived from mcwm
   - [[https://herbstluftwm.org/][herbstluftwm]] :: tiling window manager for x11 using xlib and
        glib.
+  - [[https://github.com/dylanaraps/sowm][sowm]] :: simple floating window manager
 
 * Display Managers
 
@@ -133,6 +134,9 @@ your *nix look nice.
   - [[https://github.com/florentc/xob][xob]] :: Lightweight overlay volume for the X win system.
   - [[https://github.com/dylanaraps/pfetch][pfetch]] :: pretty system information tool written in POSIX sh.
   - [[https://github.com/ledesmablt/spotify-cli][spotify-cli]] :: control spotify playback through the command line.
+  - [[https://github.com/13-CF/afetch][afetch]] :: fast and simple system info written in C99 configured at
+    compile time.
+  - [[https://github.com/vulf/st/][st]] :: simple terminal
 
 * Terminal Friendly Websites
 
@@ -154,6 +158,7 @@ your *nix look nice.
   - [[https://github.com/source-foundry/Hack][Hack]] :: typeface designed for source code
   - [[https://undefined-medium.com/][undefined]] :: free and open-source pixel grid-based
 
+
 * Wallpapers
 
   - https://github.com/LukeSmithxyz/wallpapers
@@ -162,6 +167,17 @@ your *nix look nice.
 * Dotfiles
 
   - https://github.com/addy-dclxvi/almighty-dotfiles
+
+* Vim Themes
+
+  - [[https://github.com/rakr/vim-one][vim-one]] :: Light and dark vim colorscheme, shamelessly stolen from
+    atom (another excellent text editor)
+
+* Emacs Themes
+
+  - [[https://emacsthemes.com/][emacs-themes]] :: Emacs themes
+
+
 * OSX
 
   - [[https://contexts.co/][contexts]] ::  simpler and faster window switcher. ($$$)
