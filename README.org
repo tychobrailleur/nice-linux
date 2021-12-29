@@ -24,6 +24,10 @@ your *nix look nice.
   - [[https://herbstluftwm.org/][herbstluftwm]] :: tiling window manager for x11 using xlib and
        glib.
   - [[https://github.com/dylanaraps/sowm][sowm]] :: simple floating window manager
+  - [[https://github.com/ibhagwan/picom][picom]] :: lightweight compositor for X11
+  - [[https://github.com/chjj/compton][compton]] :: compositor for X (/cf./ https://en.wikipedia.org/wiki/Compositing_window_manager)
+  - [[https://swaywm.org/][sway]] :: tiling Wayland compositor and drop-in replacement for i3 for x11
+
 
 * Display Managers
 
@@ -48,6 +52,7 @@ your *nix look nice.
   - [[https://github.com/brndnmtthws/conky][conky]] :: Lightweight system monitor for X.
   - [[https://github.com/karlstav/cava][cava]] :: console-based audio visualiser for Alsa.
   - [[https://github.com/dylanaraps/neofetch][neofetch]] :: Display info about the system, written in Bash.
+  - [[https://neomutt.org/][neomutt]] :: command line mail reader (or MUA)
   - [[https://github.com/abishekvashok/cmatrix][cmatrix]] :: matrix implementation on the command line
   - [[https://github.com/muennich/sxiv][sxiv]] :: Simple X image viewer.
   - [[https://github.com/dylanaraps/fff][fff (fucking fast file-manager)]] :: command-line based file manager.
@@ -75,7 +80,6 @@ your *nix look nice.
   - [[https://sourceforge.net/projects/shapecorners/][shapecorners]] :: simple KWin/5 efffect that simply rounds corners
        of windows.
   - [[https://nicolargo.github.io/glances/][glances]] :: system monitor written in Python.
-  - [[https://github.com/chjj/compton][compton]] :: compositor for X (/cf./ https://en.wikipedia.org/wiki/Compositing_window_manager)
   - [[https://github.com/dreamer/scrot/][scrot]] ::  commandline screen capture utility.
   - [[https://siyanpanayotov.com/project/viewnior][viewnior]] :: fast simple image viewer for GNU/Linux.
   - [[https://github.com/nicklan/pnmixer/wiki][pnmixer]] ::  simple mixer application to run in system tray.
@@ -137,6 +141,12 @@ your *nix look nice.
   - [[https://github.com/13-CF/afetch][afetch]] :: fast and simple system info written in C99 configured at
     compile time.
   - [[https://github.com/vulf/st/][st]] :: simple terminal
+  - [[https://github.com/khanhas/spicetify-cli][spicetify]] :: Command line to customize Spotify clients.
+  - [[https://github.com/aristocratos/bpytop][bpytop]] :: resource monitor that shows usage and stats for CPU, memory, disks, networks and processes.
+  - [[https://github.com/emersion/mako][mako]] :: a lightweight Wayland notification daemon
+  - [[https://github.com/cloudef/bemenu][bemenu]] :: dynamic menu library and client program inspired by dmenu
+  - [[https://git.causal.agency/catgirl/about/][catgirl]] :: IRC client
+  - [[https://github.com/pimutils/khal][khal]] :: CLI calendar application
 
 * Terminal Friendly Websites
 
@@ -167,6 +177,11 @@ your *nix look nice.
 * Dotfiles
 
   - https://github.com/addy-dclxvi/almighty-dotfiles
+
+
+* Icon Themes
+
+  - [[https://github.com/vinceliuice/Tela-icon-theme][Tela Icons]] :: A flat colorful Design icon theme
 
 * Vim Themes
 
